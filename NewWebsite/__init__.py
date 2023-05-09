@@ -1,3 +1,1 @@
-
-printf("Hello world")
-printf("hello world")
+print("new")
